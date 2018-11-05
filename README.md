@@ -21,3 +21,8 @@ Fecha y hora de publicación de la autorización en esta página: (aaaa-mm-dd hh
 Autorización del SAT número: 16543
 
 CSD para Timbrado: 00001000000301634628
+
+----
+Enlaces para desarrolladores:
+https://developers.sw.com.mx/article-categories/como-cancelar-cfdi-3-3/
+https://developers.sw.com.mx/article-categories/autenticacion-33/
